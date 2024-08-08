@@ -13,7 +13,7 @@ from sklearn.neural_network import MLPRegressor
 from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
 
 # Carregar a base de dados Titanic
-df = pd.read_csv('./regressao/GallusGallusDomesticus.csv')
+df = pd.read_csv('./exemplo/titanic_test.csv')
 
 # Selecionar colunas relevantes para regressão
 df = df[['age', 'fare', 'embarked', 'sex', 'pclass']]
