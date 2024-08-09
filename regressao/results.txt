@@ -1,0 +1,72 @@
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5057694.22
+Raiz do Erro Quadratico Medio (RMSE): 2248.93
+Erro Absoluto Medio (MAE): 2205.96
+R² Score: -25.42
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5057694.22
+Raiz do Erro Quadratico Medio (RMSE): 2248.93
+Erro Absoluto Medio (MAE): 2205.96
+R² Score: -25.42
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5057694.22
+Raiz do Erro Quadratico Medio (RMSE): 2248.93
+Erro Absoluto Medio (MAE): 2205.96
+R² Score: -25.42
+

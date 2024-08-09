@@ -17,26 +17,19 @@ from sklearn.impute import SimpleImputer
 
 def preprocess(df):
     # Selecionar colunas relevantes para regressão
-    df = df[['Day', 'Age', 'GallusWeight', 'GallusEggWeight', 'AmountOfFeed','EggsPerDay' , 'SunLightExposure', 'GallusPlumage', 'GallusCombType', 'GallusEggColor', 'GallusBreed']]
-
+    df = df[['weight', 'Time', 'Chick', 'Diet']]
+    print(df.head())
     # Definir recursos (features) e alvo (target)
-    X = df.drop('GallusWeight', axis=1)
-    y = df['GallusWeight']
+    X = df.drop('weight', axis=1)
+    y = df['weight']
 
     # Identificar colunas numéricas
-    numeric_features = ['Day', 'Age', 'GallusEggWeight', 'AmountOfFeed', 'SunLightExposure']
-    categorical_features = ['GallusPlumage', 'GallusCombType', 'GallusEggColor', 'GallusBreed']
+    numeric_features = ['weight', 'Time', 'Chick', 'Diet']
 
-    categorical_transformer = Pipeline(steps=[
-        ('imputer', SimpleImputer(strategy='most_frequent')),
-        ('onehot', OneHotEncoder(handle_unknown='ignore')) # 
-    ])
-
-# Criar o pré-processador usando ColumnTransformer
+    # Criar o pré-processador usando ColumnTransformer
     preprocessor = ColumnTransformer(
         transformers=[
             ('num', StandardScaler() , numeric_features),
-            ('cat', categorical_transformer, categorical_features)
         ])
 
     return X, y, preprocessor
@@ -168,7 +161,7 @@ def mlp_pipeline(preprocessor, config):
 def main(): 
 
     # Pré-processamento
-    X, y, preprocessor = preprocess(pd.read_csv('./regressao/GallusGallusDomesticus.csv'))
+    X, y, preprocessor = preprocess(pd.read_csv('./regressao/ChickWeight.csv'))
 
     # Dividir os dados em conjuntos de treinamento e teste
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=1)
