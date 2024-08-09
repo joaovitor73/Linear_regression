@@ -6,7 +6,7 @@ import sklearn
 
 # https://www.kaggle.com/c/titanic/data
 # Caminho para o arquivo CSV no sistema de arquivos local
-path_to_csv = './titanic_train.csv'
+path_to_csv = './exemplo/titanic_train.csv'
 # Carregar o CSV em um DataFrame do pandas
 titanic = pandas.read_csv(path_to_csv)
 # Visualizar as primeiras linhas do DataFrame

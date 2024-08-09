@@ -3,70 +3,4674 @@ Erro Quadratico Medio (MSE): 184583.78
 Raiz do Erro Quadratico Medio (RMSE): 429.63
 Erro Absoluto Medio (MAE): 360.73
 R² Score: 0.04
+Cross Validation Score: 0.08
 
 KNN Regressor: 
 Erro Quadratico Medio (MSE): 104162.96
 Raiz do Erro Quadratico Medio (RMSE): 322.74
 Erro Absoluto Medio (MAE): 247.96
 R² Score: 0.46
+Cross Validation Score: 0.36
 
 Arvore de Decisao Regressora: 
 Erro Quadratico Medio (MSE): 0.00
 Raiz do Erro Quadratico Medio (RMSE): 0.00
 Erro Absoluto Medio (MAE): 0.00
 R² Score: 1.00
+Cross Validation Score: 1.00
 
 MLP Regressor: 
-Erro Quadratico Medio (MSE): 5057694.22
-Raiz do Erro Quadratico Medio (RMSE): 2248.93
-Erro Absoluto Medio (MAE): 2205.96
-R² Score: -25.42
+Erro Quadratico Medio (MSE): 5104865.35
+Raiz do Erro Quadratico Medio (RMSE): 2259.39
+Erro Absoluto Medio (MAE): 2216.63
+R² Score: -25.67
+Cross Validation Score: -25.76
 
 Regressao Linear: 
 Erro Quadratico Medio (MSE): 184583.78
 Raiz do Erro Quadratico Medio (RMSE): 429.63
 Erro Absoluto Medio (MAE): 360.73
 R² Score: 0.04
+Cross Validation Score: 0.08
 
 KNN Regressor: 
-Erro Quadratico Medio (MSE): 104162.96
-Raiz do Erro Quadratico Medio (RMSE): 322.74
-Erro Absoluto Medio (MAE): 247.96
-R² Score: 0.46
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
 
 Arvore de Decisao Regressora: 
-Erro Quadratico Medio (MSE): 0.00
-Raiz do Erro Quadratico Medio (RMSE): 0.00
-Erro Absoluto Medio (MAE): 0.00
-R² Score: 1.00
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
 
 MLP Regressor: 
-Erro Quadratico Medio (MSE): 5057694.22
-Raiz do Erro Quadratico Medio (RMSE): 2248.93
-Erro Absoluto Medio (MAE): 2205.96
-R² Score: -25.42
+Erro Quadratico Medio (MSE): 185354.56
+Raiz do Erro Quadratico Medio (RMSE): 430.53
+Erro Absoluto Medio (MAE): 361.91
+R² Score: 0.03
+Cross Validation Score: 0.08
 
 Regressao Linear: 
 Erro Quadratico Medio (MSE): 184583.78
 Raiz do Erro Quadratico Medio (RMSE): 429.63
 Erro Absoluto Medio (MAE): 360.73
 R² Score: 0.04
+Cross Validation Score: 0.08
 
 KNN Regressor: 
-Erro Quadratico Medio (MSE): 104162.96
-Raiz do Erro Quadratico Medio (RMSE): 322.74
-Erro Absoluto Medio (MAE): 247.96
-R² Score: 0.46
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
 
 Arvore de Decisao Regressora: 
 Erro Quadratico Medio (MSE): 0.00
 Raiz do Erro Quadratico Medio (RMSE): 0.00
 Erro Absoluto Medio (MAE): 0.00
 R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5060575.14
+Raiz do Erro Quadratico Medio (RMSE): 2249.57
+Erro Absoluto Medio (MAE): 2206.61
+R² Score: -25.43
+Cross Validation Score: -25.49
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 35130.41
+Raiz do Erro Quadratico Medio (RMSE): 187.43
+Erro Absoluto Medio (MAE): 128.46
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5052113.56
+Raiz do Erro Quadratico Medio (RMSE): 2247.69
+Erro Absoluto Medio (MAE): 2204.69
+R² Score: -25.39
+Cross Validation Score: -25.49
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 83815.50
+Raiz do Erro Quadratico Medio (RMSE): 289.51
+Erro Absoluto Medio (MAE): 120.05
+R² Score: 0.56
+Cross Validation Score: 0.47
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5115092.54
+Raiz do Erro Quadratico Medio (RMSE): 2261.66
+Erro Absoluto Medio (MAE): 2218.93
+R² Score: -25.72
+Cross Validation Score: -25.82
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5104041.03
+Raiz do Erro Quadratico Medio (RMSE): 2259.21
+Erro Absoluto Medio (MAE): 2216.44
+R² Score: -25.66
+Cross Validation Score: -25.77
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 185043.52
+Raiz do Erro Quadratico Medio (RMSE): 430.17
+Erro Absoluto Medio (MAE): 361.28
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5052847.53
+Raiz do Erro Quadratico Medio (RMSE): 2247.85
+Erro Absoluto Medio (MAE): 2204.86
+R² Score: -25.39
+Cross Validation Score: -25.50
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 35130.41
+Raiz do Erro Quadratico Medio (RMSE): 187.43
+Erro Absoluto Medio (MAE): 128.46
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5052839.02
+Raiz do Erro Quadratico Medio (RMSE): 2247.85
+Erro Absoluto Medio (MAE): 2204.86
+R² Score: -25.39
+Cross Validation Score: -25.49
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 230230.50
+Raiz do Erro Quadratico Medio (RMSE): 479.82
+Erro Absoluto Medio (MAE): 337.25
+R² Score: -0.20
+Cross Validation Score: 0.41
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5114729.46
+Raiz do Erro Quadratico Medio (RMSE): 2261.58
+Erro Absoluto Medio (MAE): 2218.85
+R² Score: -25.72
+Cross Validation Score: -25.81
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5108920.60
+Raiz do Erro Quadratico Medio (RMSE): 2260.29
+Erro Absoluto Medio (MAE): 2217.54
+R² Score: -25.69
+Cross Validation Score: -25.77
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 185475.71
+Raiz do Erro Quadratico Medio (RMSE): 430.67
+Erro Absoluto Medio (MAE): 361.92
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5051847.42
+Raiz do Erro Quadratico Medio (RMSE): 2247.63
+Erro Absoluto Medio (MAE): 2204.63
+R² Score: -25.39
+Cross Validation Score: -25.50
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5053781.39
+Raiz do Erro Quadratico Medio (RMSE): 2248.06
+Erro Absoluto Medio (MAE): 2205.07
+R² Score: -25.40
+Cross Validation Score: -25.49
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 97915.00
+Raiz do Erro Quadratico Medio (RMSE): 312.91
+Erro Absoluto Medio (MAE): 131.80
+R² Score: 0.49
+Cross Validation Score: 0.62
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5119767.84
+Raiz do Erro Quadratico Medio (RMSE): 2262.69
+Erro Absoluto Medio (MAE): 2219.99
+R² Score: -25.74
+Cross Validation Score: -25.82
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5099424.70
+Raiz do Erro Quadratico Medio (RMSE): 2258.19
+Erro Absoluto Medio (MAE): 2215.40
+R² Score: -25.64
+Cross Validation Score: -25.76
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 185888.20
+Raiz do Erro Quadratico Medio (RMSE): 431.15
+Erro Absoluto Medio (MAE): 362.13
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5050989.83
+Raiz do Erro Quadratico Medio (RMSE): 2247.44
+Erro Absoluto Medio (MAE): 2204.44
+R² Score: -25.38
+Cross Validation Score: -25.49
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5052871.72
+Raiz do Erro Quadratico Medio (RMSE): 2247.86
+Erro Absoluto Medio (MAE): 2204.87
+R² Score: -25.39
+Cross Validation Score: -25.49
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 68345.50
+Raiz do Erro Quadratico Medio (RMSE): 261.43
+Erro Absoluto Medio (MAE): 95.85
+R² Score: 0.64
+Cross Validation Score: 0.50
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5114255.83
+Raiz do Erro Quadratico Medio (RMSE): 2261.47
+Erro Absoluto Medio (MAE): 2218.74
+R² Score: -25.72
+Cross Validation Score: -25.82
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5108891.56
+Raiz do Erro Quadratico Medio (RMSE): 2260.29
+Erro Absoluto Medio (MAE): 2217.54
+R² Score: -25.69
+Cross Validation Score: -25.77
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 185859.44
+Raiz do Erro Quadratico Medio (RMSE): 431.11
+Erro Absoluto Medio (MAE): 362.26
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5050172.02
+Raiz do Erro Quadratico Medio (RMSE): 2247.26
+Erro Absoluto Medio (MAE): 2204.25
+R² Score: -25.38
+Cross Validation Score: -25.48
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5056532.32
+Raiz do Erro Quadratico Medio (RMSE): 2248.67
+Erro Absoluto Medio (MAE): 2205.70
+R² Score: -25.41
+Cross Validation Score: -25.50
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 60035.50
+Raiz do Erro Quadratico Medio (RMSE): 245.02
+Erro Absoluto Medio (MAE): 98.75
+R² Score: 0.69
+Cross Validation Score: 0.54
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5120232.42
+Raiz do Erro Quadratico Medio (RMSE): 2262.79
+Erro Absoluto Medio (MAE): 2220.09
+R² Score: -25.75
+Cross Validation Score: -25.82
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5108513.32
+Raiz do Erro Quadratico Medio (RMSE): 2260.20
+Erro Absoluto Medio (MAE): 2217.45
+R² Score: -25.69
+Cross Validation Score: -25.76
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 185435.65
+Raiz do Erro Quadratico Medio (RMSE): 430.62
+Erro Absoluto Medio (MAE): 361.70
+R² Score: 0.03
+Cross Validation Score: -2.46
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5054848.09
+Raiz do Erro Quadratico Medio (RMSE): 2248.30
+Erro Absoluto Medio (MAE): 2205.31
+R² Score: -25.41
+Cross Validation Score: -25.49
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5054266.57
+Raiz do Erro Quadratico Medio (RMSE): 2248.17
+Erro Absoluto Medio (MAE): 2205.18
+R² Score: -25.40
+Cross Validation Score: -25.49
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 61993.50
+Raiz do Erro Quadratico Medio (RMSE): 248.98
+Erro Absoluto Medio (MAE): 88.85
+R² Score: 0.68
+Cross Validation Score: 0.48
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5120971.70
+Raiz do Erro Quadratico Medio (RMSE): 2262.96
+Erro Absoluto Medio (MAE): 2220.26
+R² Score: -25.75
+Cross Validation Score: -25.82
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5105379.83
+Raiz do Erro Quadratico Medio (RMSE): 2259.51
+Erro Absoluto Medio (MAE): 2216.74
+R² Score: -25.67
+Cross Validation Score: -25.77
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 185748.33
+Raiz do Erro Quadratico Medio (RMSE): 430.99
+Erro Absoluto Medio (MAE): 361.97
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5054301.18
+Raiz do Erro Quadratico Medio (RMSE): 2248.18
+Erro Absoluto Medio (MAE): 2205.19
+R² Score: -25.40
+Cross Validation Score: -25.50
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 35130.41
+Raiz do Erro Quadratico Medio (RMSE): 187.43
+Erro Absoluto Medio (MAE): 128.46
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5054796.51
+Raiz do Erro Quadratico Medio (RMSE): 2248.29
+Erro Absoluto Medio (MAE): 2205.30
+R² Score: -25.40
+Cross Validation Score: -25.49
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34513.00
+Raiz do Erro Quadratico Medio (RMSE): 185.78
+Erro Absoluto Medio (MAE): 63.00
+R² Score: 0.82
+Cross Validation Score: 0.44
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5117905.94
+Raiz do Erro Quadratico Medio (RMSE): 2262.28
+Erro Absoluto Medio (MAE): 2219.57
+R² Score: -25.73
+Cross Validation Score: -25.81
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5104344.29
+Raiz do Erro Quadratico Medio (RMSE): 2259.28
+Erro Absoluto Medio (MAE): 2216.51
+R² Score: -25.66
+Cross Validation Score: -25.77
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 186005.15
+Raiz do Erro Quadratico Medio (RMSE): 431.28
+Erro Absoluto Medio (MAE): 362.27
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5052495.18
+Raiz do Erro Quadratico Medio (RMSE): 2247.78
+Erro Absoluto Medio (MAE): 2204.78
+R² Score: -25.39
+Cross Validation Score: -25.50
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5053890.22
+Raiz do Erro Quadratico Medio (RMSE): 2248.09
+Erro Absoluto Medio (MAE): 2205.10
+R² Score: -25.40
+Cross Validation Score: -25.48
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 58207.00
+Raiz do Erro Quadratico Medio (RMSE): 241.26
+Erro Absoluto Medio (MAE): 94.20
+R² Score: 0.70
+Cross Validation Score: 0.50
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5112188.98
+Raiz do Erro Quadratico Medio (RMSE): 2261.02
+Erro Absoluto Medio (MAE): 2218.28
+R² Score: -25.70
+Cross Validation Score: -25.81
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5107200.12
+Raiz do Erro Quadratico Medio (RMSE): 2259.91
+Erro Absoluto Medio (MAE): 2217.15
+R² Score: -25.68
+Cross Validation Score: -25.76
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 185421.27
+Raiz do Erro Quadratico Medio (RMSE): 430.61
+Erro Absoluto Medio (MAE): 361.79
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5055094.12
+Raiz do Erro Quadratico Medio (RMSE): 2248.35
+Erro Absoluto Medio (MAE): 2205.37
+R² Score: -25.41
+Cross Validation Score: -25.50
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 35130.41
+Raiz do Erro Quadratico Medio (RMSE): 187.43
+Erro Absoluto Medio (MAE): 128.46
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5048681.63
+Raiz do Erro Quadratico Medio (RMSE): 2246.93
+Erro Absoluto Medio (MAE): 2203.92
+R² Score: -25.37
+Cross Validation Score: -25.49
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 19631.00
+Raiz do Erro Quadratico Medio (RMSE): 140.11
+Erro Absoluto Medio (MAE): 44.20
+R² Score: 0.90
+Cross Validation Score: 0.72
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5111912.11
+Raiz do Erro Quadratico Medio (RMSE): 2260.95
+Erro Absoluto Medio (MAE): 2218.22
+R² Score: -25.70
+Cross Validation Score: -25.82
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5100864.06
+Raiz do Erro Quadratico Medio (RMSE): 2258.51
+Erro Absoluto Medio (MAE): 2215.72
+R² Score: -25.65
+Cross Validation Score: -25.76
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 185731.56
+Raiz do Erro Quadratico Medio (RMSE): 430.97
+Erro Absoluto Medio (MAE): 361.99
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5052268.01
+Raiz do Erro Quadratico Medio (RMSE): 2247.73
+Erro Absoluto Medio (MAE): 2204.73
+R² Score: -25.39
+Cross Validation Score: -25.50
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5058321.53
+Raiz do Erro Quadratico Medio (RMSE): 2249.07
+Erro Absoluto Medio (MAE): 2206.10
+R² Score: -25.42
+Cross Validation Score: -25.49
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 72826.50
+Raiz do Erro Quadratico Medio (RMSE): 269.86
+Erro Absoluto Medio (MAE): 109.55
+R² Score: 0.62
+Cross Validation Score: 0.54
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5118039.76
+Raiz do Erro Quadratico Medio (RMSE): 2262.31
+Erro Absoluto Medio (MAE): 2219.60
+R² Score: -25.74
+Cross Validation Score: -25.81
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5101264.22
+Raiz do Erro Quadratico Medio (RMSE): 2258.60
+Erro Absoluto Medio (MAE): 2215.81
+R² Score: -25.65
+Cross Validation Score: -25.77
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 187493.61
+Raiz do Erro Quadratico Medio (RMSE): 433.01
+Erro Absoluto Medio (MAE): 364.18
+R² Score: 0.02
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5056578.66
+Raiz do Erro Quadratico Medio (RMSE): 2248.68
+Erro Absoluto Medio (MAE): 2205.71
+R² Score: -25.41
+Cross Validation Score: -25.50
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5055342.29
+Raiz do Erro Quadratico Medio (RMSE): 2248.41
+Erro Absoluto Medio (MAE): 2205.43
+R² Score: -25.41
+Cross Validation Score: -25.50
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 78093.00
+Raiz do Erro Quadratico Medio (RMSE): 279.45
+Erro Absoluto Medio (MAE): 112.90
+R² Score: 0.59
+Cross Validation Score: 0.58
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5113034.98
+Raiz do Erro Quadratico Medio (RMSE): 2261.20
+Erro Absoluto Medio (MAE): 2218.47
+R² Score: -25.71
+Cross Validation Score: -25.82
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5102531.80
+Raiz do Erro Quadratico Medio (RMSE): 2258.88
+Erro Absoluto Medio (MAE): 2216.10
+R² Score: -25.65
+Cross Validation Score: -25.76
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 185160.05
+Raiz do Erro Quadratico Medio (RMSE): 430.30
+Erro Absoluto Medio (MAE): 361.49
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5056771.09
+Raiz do Erro Quadratico Medio (RMSE): 2248.73
+Erro Absoluto Medio (MAE): 2205.75
+R² Score: -25.42
+Cross Validation Score: -25.48
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5056640.64
+Raiz do Erro Quadratico Medio (RMSE): 2248.70
+Erro Absoluto Medio (MAE): 2205.72
+R² Score: -25.41
+Cross Validation Score: -25.49
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 137295.50
+Raiz do Erro Quadratico Medio (RMSE): 370.53
+Erro Absoluto Medio (MAE): 197.15
+R² Score: 0.28
+Cross Validation Score: 0.58
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5113803.25
+Raiz do Erro Quadratico Medio (RMSE): 2261.37
+Erro Absoluto Medio (MAE): 2218.64
+R² Score: -25.71
+Cross Validation Score: -25.81
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5102867.43
+Raiz do Erro Quadratico Medio (RMSE): 2258.95
+Erro Absoluto Medio (MAE): 2216.18
+R² Score: -25.66
+Cross Validation Score: -25.75
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 185316.64
+Raiz do Erro Quadratico Medio (RMSE): 430.48
+Erro Absoluto Medio (MAE): 361.61
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5053362.99
+Raiz do Erro Quadratico Medio (RMSE): 2247.97
+Erro Absoluto Medio (MAE): 2204.98
+R² Score: -25.40
+Cross Validation Score: -25.49
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5053362.99
+Raiz do Erro Quadratico Medio (RMSE): 2247.97
+Erro Absoluto Medio (MAE): 2204.98
+R² Score: -25.40
+Cross Validation Score: -25.49
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 109630.50
+Raiz do Erro Quadratico Medio (RMSE): 331.10
+Erro Absoluto Medio (MAE): 144.25
+R² Score: 0.43
+Cross Validation Score: 0.48
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5111112.19
+Raiz do Erro Quadratico Medio (RMSE): 2260.78
+Erro Absoluto Medio (MAE): 2218.04
+R² Score: -25.70
+Cross Validation Score: -25.79
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5107151.80
+Raiz do Erro Quadratico Medio (RMSE): 2259.90
+Erro Absoluto Medio (MAE): 2217.14
+R² Score: -25.68
+Cross Validation Score: -25.77
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 185637.01
+Raiz do Erro Quadratico Medio (RMSE): 430.86
+Erro Absoluto Medio (MAE): 362.21
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5052764.46
+Raiz do Erro Quadratico Medio (RMSE): 2247.84
+Erro Absoluto Medio (MAE): 2204.84
+R² Score: -25.39
+Cross Validation Score: -25.48
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5052764.46
+Raiz do Erro Quadratico Medio (RMSE): 2247.84
+Erro Absoluto Medio (MAE): 2204.84
+R² Score: -25.39
+Cross Validation Score: -25.48
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 66673.50
+Raiz do Erro Quadratico Medio (RMSE): 258.21
+Erro Absoluto Medio (MAE): 84.75
+R² Score: 0.65
+Cross Validation Score: 0.74
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5121074.23
+Raiz do Erro Quadratico Medio (RMSE): 2262.98
+Erro Absoluto Medio (MAE): 2220.28
+R² Score: -25.75
+Cross Validation Score: -25.84
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5102625.43
+Raiz do Erro Quadratico Medio (RMSE): 2258.90
+Erro Absoluto Medio (MAE): 2216.12
+R² Score: -25.65
+Cross Validation Score: -25.74
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 185971.02
+Raiz do Erro Quadratico Medio (RMSE): 431.24
+Erro Absoluto Medio (MAE): 362.67
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
 
 MLP Regressor: 
 Erro Quadratico Medio (MSE): 5057694.22
 Raiz do Erro Quadratico Medio (RMSE): 2248.93
 Erro Absoluto Medio (MAE): 2205.96
 R² Score: -25.42
+Cross Validation Score: -25.51
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5057694.22
+Raiz do Erro Quadratico Medio (RMSE): 2248.93
+Erro Absoluto Medio (MAE): 2205.96
+R² Score: -25.42
+Cross Validation Score: -25.51
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 75111.00
+Raiz do Erro Quadratico Medio (RMSE): 274.06
+Erro Absoluto Medio (MAE): 118.50
+R² Score: 0.61
+Cross Validation Score: 0.50
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5117846.61
+Raiz do Erro Quadratico Medio (RMSE): 2262.27
+Erro Absoluto Medio (MAE): 2219.55
+R² Score: -25.73
+Cross Validation Score: -25.82
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5102625.43
+Raiz do Erro Quadratico Medio (RMSE): 2258.90
+Erro Absoluto Medio (MAE): 2216.12
+R² Score: -25.65
+Cross Validation Score: -25.74
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 185971.02
+Raiz do Erro Quadratico Medio (RMSE): 431.24
+Erro Absoluto Medio (MAE): 362.67
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5057694.22
+Raiz do Erro Quadratico Medio (RMSE): 2248.93
+Erro Absoluto Medio (MAE): 2205.96
+R² Score: -25.42
+Cross Validation Score: -25.51
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5057694.22
+Raiz do Erro Quadratico Medio (RMSE): 2248.93
+Erro Absoluto Medio (MAE): 2205.96
+R² Score: -25.42
+Cross Validation Score: -25.51
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 75111.00
+Raiz do Erro Quadratico Medio (RMSE): 274.06
+Erro Absoluto Medio (MAE): 118.50
+R² Score: 0.61
+Cross Validation Score: 0.50
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5117846.61
+Raiz do Erro Quadratico Medio (RMSE): 2262.27
+Erro Absoluto Medio (MAE): 2219.55
+R² Score: -25.73
+Cross Validation Score: -25.82
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5102867.43
+Raiz do Erro Quadratico Medio (RMSE): 2258.95
+Erro Absoluto Medio (MAE): 2216.18
+R² Score: -25.66
+Cross Validation Score: -25.75
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 185316.64
+Raiz do Erro Quadratico Medio (RMSE): 430.48
+Erro Absoluto Medio (MAE): 361.61
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5053362.99
+Raiz do Erro Quadratico Medio (RMSE): 2247.97
+Erro Absoluto Medio (MAE): 2204.98
+R² Score: -25.40
+Cross Validation Score: -25.49
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5053362.99
+Raiz do Erro Quadratico Medio (RMSE): 2247.97
+Erro Absoluto Medio (MAE): 2204.98
+R² Score: -25.40
+Cross Validation Score: -25.49
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 109630.50
+Raiz do Erro Quadratico Medio (RMSE): 331.10
+Erro Absoluto Medio (MAE): 144.25
+R² Score: 0.43
+Cross Validation Score: 0.48
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5111112.19
+Raiz do Erro Quadratico Medio (RMSE): 2260.78
+Erro Absoluto Medio (MAE): 2218.04
+R² Score: -25.70
+Cross Validation Score: -25.79
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5102391.32
+Raiz do Erro Quadratico Medio (RMSE): 2258.85
+Erro Absoluto Medio (MAE): 2216.07
+R² Score: -25.65
+Cross Validation Score: -25.74
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 185320.12
+Raiz do Erro Quadratico Medio (RMSE): 430.49
+Erro Absoluto Medio (MAE): 362.01
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5052792.97
+Raiz do Erro Quadratico Medio (RMSE): 2247.84
+Erro Absoluto Medio (MAE): 2204.85
+R² Score: -25.39
+Cross Validation Score: -25.48
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5052792.97
+Raiz do Erro Quadratico Medio (RMSE): 2247.84
+Erro Absoluto Medio (MAE): 2204.85
+R² Score: -25.39
+Cross Validation Score: -25.48
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 92127.00
+Raiz do Erro Quadratico Medio (RMSE): 303.52
+Erro Absoluto Medio (MAE): 127.80
+R² Score: 0.52
+Cross Validation Score: 0.52
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5113587.51
+Raiz do Erro Quadratico Medio (RMSE): 2261.32
+Erro Absoluto Medio (MAE): 2218.59
+R² Score: -25.71
+Cross Validation Score: -25.80
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5102625.43
+Raiz do Erro Quadratico Medio (RMSE): 2258.90
+Erro Absoluto Medio (MAE): 2216.12
+R² Score: -25.65
+Cross Validation Score: -25.74
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 185971.02
+Raiz do Erro Quadratico Medio (RMSE): 431.24
+Erro Absoluto Medio (MAE): 362.67
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5057694.22
+Raiz do Erro Quadratico Medio (RMSE): 2248.93
+Erro Absoluto Medio (MAE): 2205.96
+R² Score: -25.42
+Cross Validation Score: -25.51
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5057694.22
+Raiz do Erro Quadratico Medio (RMSE): 2248.93
+Erro Absoluto Medio (MAE): 2205.96
+R² Score: -25.42
+Cross Validation Score: -25.51
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 75111.00
+Raiz do Erro Quadratico Medio (RMSE): 274.06
+Erro Absoluto Medio (MAE): 118.50
+R² Score: 0.61
+Cross Validation Score: 0.50
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5117846.61
+Raiz do Erro Quadratico Medio (RMSE): 2262.27
+Erro Absoluto Medio (MAE): 2219.55
+R² Score: -25.73
+Cross Validation Score: -25.82
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5107151.80
+Raiz do Erro Quadratico Medio (RMSE): 2259.90
+Erro Absoluto Medio (MAE): 2217.14
+R² Score: -25.68
+Cross Validation Score: -25.77
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 185637.01
+Raiz do Erro Quadratico Medio (RMSE): 430.86
+Erro Absoluto Medio (MAE): 362.21
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5052764.46
+Raiz do Erro Quadratico Medio (RMSE): 2247.84
+Erro Absoluto Medio (MAE): 2204.84
+R² Score: -25.39
+Cross Validation Score: -25.48
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5052764.46
+Raiz do Erro Quadratico Medio (RMSE): 2247.84
+Erro Absoluto Medio (MAE): 2204.84
+R² Score: -25.39
+Cross Validation Score: -25.48
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 66673.50
+Raiz do Erro Quadratico Medio (RMSE): 258.21
+Erro Absoluto Medio (MAE): 84.75
+R² Score: 0.65
+Cross Validation Score: 0.74
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5121074.23
+Raiz do Erro Quadratico Medio (RMSE): 2262.98
+Erro Absoluto Medio (MAE): 2220.28
+R² Score: -25.75
+Cross Validation Score: -25.84
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5102625.43
+Raiz do Erro Quadratico Medio (RMSE): 2258.90
+Erro Absoluto Medio (MAE): 2216.12
+R² Score: -25.65
+Cross Validation Score: -25.74
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 185971.02
+Raiz do Erro Quadratico Medio (RMSE): 431.24
+Erro Absoluto Medio (MAE): 362.67
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5057694.22
+Raiz do Erro Quadratico Medio (RMSE): 2248.93
+Erro Absoluto Medio (MAE): 2205.96
+R² Score: -25.42
+Cross Validation Score: -25.51
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5057694.22
+Raiz do Erro Quadratico Medio (RMSE): 2248.93
+Erro Absoluto Medio (MAE): 2205.96
+R² Score: -25.42
+Cross Validation Score: -25.51
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 75111.00
+Raiz do Erro Quadratico Medio (RMSE): 274.06
+Erro Absoluto Medio (MAE): 118.50
+R² Score: 0.61
+Cross Validation Score: 0.50
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5117846.61
+Raiz do Erro Quadratico Medio (RMSE): 2262.27
+Erro Absoluto Medio (MAE): 2219.55
+R² Score: -25.73
+Cross Validation Score: -25.82
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5102625.43
+Raiz do Erro Quadratico Medio (RMSE): 2258.90
+Erro Absoluto Medio (MAE): 2216.12
+R² Score: -25.65
+Cross Validation Score: -25.74
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 185971.02
+Raiz do Erro Quadratico Medio (RMSE): 431.24
+Erro Absoluto Medio (MAE): 362.67
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5057694.22
+Raiz do Erro Quadratico Medio (RMSE): 2248.93
+Erro Absoluto Medio (MAE): 2205.96
+R² Score: -25.42
+Cross Validation Score: -25.51
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5057694.22
+Raiz do Erro Quadratico Medio (RMSE): 2248.93
+Erro Absoluto Medio (MAE): 2205.96
+R² Score: -25.42
+Cross Validation Score: -25.51
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 75111.00
+Raiz do Erro Quadratico Medio (RMSE): 274.06
+Erro Absoluto Medio (MAE): 118.50
+R² Score: 0.61
+Cross Validation Score: 0.50
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 5117846.61
+Raiz do Erro Quadratico Medio (RMSE): 2262.27
+Erro Absoluto Medio (MAE): 2219.55
+R² Score: -25.73
+Cross Validation Score: -25.82
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 4595681.94
+Raiz do Erro Quadratico Medio (RMSE): 2143.75
+Erro Absoluto Medio (MAE): 2098.81
+R² Score: -23.01
+Cross Validation Score: -23.04
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 187382.08
+Raiz do Erro Quadratico Medio (RMSE): 432.88
+Erro Absoluto Medio (MAE): 363.73
+R² Score: 0.02
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 322067.62
+Raiz do Erro Quadratico Medio (RMSE): 567.51
+Erro Absoluto Medio (MAE): 445.95
+R² Score: -0.68
+Cross Validation Score: -0.54
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 322067.62
+Raiz do Erro Quadratico Medio (RMSE): 567.51
+Erro Absoluto Medio (MAE): 445.95
+R² Score: -0.68
+Cross Validation Score: -0.54
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 75111.00
+Raiz do Erro Quadratico Medio (RMSE): 274.06
+Erro Absoluto Medio (MAE): 118.50
+R² Score: 0.61
+Cross Validation Score: 0.50
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 187382.08
+Raiz do Erro Quadratico Medio (RMSE): 432.88
+Erro Absoluto Medio (MAE): 363.73
+R² Score: 0.02
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 4596030.71
+Raiz do Erro Quadratico Medio (RMSE): 2143.84
+Erro Absoluto Medio (MAE): 2098.89
+R² Score: -23.01
+Cross Validation Score: -23.02
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 187030.15
+Raiz do Erro Quadratico Medio (RMSE): 432.47
+Erro Absoluto Medio (MAE): 363.45
+R² Score: 0.02
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 304866.16
+Raiz do Erro Quadratico Medio (RMSE): 552.15
+Erro Absoluto Medio (MAE): 432.85
+R² Score: -0.59
+Cross Validation Score: -0.45
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 304866.16
+Raiz do Erro Quadratico Medio (RMSE): 552.15
+Erro Absoluto Medio (MAE): 432.85
+R² Score: -0.59
+Cross Validation Score: -0.45
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 109630.50
+Raiz do Erro Quadratico Medio (RMSE): 331.10
+Erro Absoluto Medio (MAE): 144.25
+R² Score: 0.43
+Cross Validation Score: 0.48
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 187030.15
+Raiz do Erro Quadratico Medio (RMSE): 432.47
+Erro Absoluto Medio (MAE): 363.45
+R² Score: 0.02
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 4514301.40
+Raiz do Erro Quadratico Medio (RMSE): 2124.69
+Erro Absoluto Medio (MAE): 2079.33
+R² Score: -22.58
+Cross Validation Score: -22.60
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 186635.22
+Raiz do Erro Quadratico Medio (RMSE): 432.01
+Erro Absoluto Medio (MAE): 363.00
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 255065.52
+Raiz do Erro Quadratico Medio (RMSE): 505.04
+Erro Absoluto Medio (MAE): 395.24
+R² Score: -0.33
+Cross Validation Score: -0.23
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 255065.52
+Raiz do Erro Quadratico Medio (RMSE): 505.04
+Erro Absoluto Medio (MAE): 395.24
+R² Score: -0.33
+Cross Validation Score: -0.23
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 66673.50
+Raiz do Erro Quadratico Medio (RMSE): 258.21
+Erro Absoluto Medio (MAE): 84.75
+R² Score: 0.65
+Cross Validation Score: 0.74
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 186635.22
+Raiz do Erro Quadratico Medio (RMSE): 432.01
+Erro Absoluto Medio (MAE): 363.00
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 4632270.05
+Raiz do Erro Quadratico Medio (RMSE): 2152.27
+Erro Absoluto Medio (MAE): 2107.52
+R² Score: -23.20
+Cross Validation Score: -23.23
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 187770.04
+Raiz do Erro Quadratico Medio (RMSE): 433.32
+Erro Absoluto Medio (MAE): 364.07
+R² Score: 0.02
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 388943.81
+Raiz do Erro Quadratico Medio (RMSE): 623.65
+Erro Absoluto Medio (MAE): 495.46
+R² Score: -1.03
+Cross Validation Score: -0.88
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 35130.41
+Raiz do Erro Quadratico Medio (RMSE): 187.43
+Erro Absoluto Medio (MAE): 128.46
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 388943.81
+Raiz do Erro Quadratico Medio (RMSE): 623.65
+Erro Absoluto Medio (MAE): 495.46
+R² Score: -1.03
+Cross Validation Score: -0.88
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 32239.00
+Raiz do Erro Quadratico Medio (RMSE): 179.55
+Erro Absoluto Medio (MAE): 52.80
+R² Score: 0.83
+Cross Validation Score: 0.38
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 187770.04
+Raiz do Erro Quadratico Medio (RMSE): 433.32
+Erro Absoluto Medio (MAE): 364.07
+R² Score: 0.02
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 4514301.40
+Raiz do Erro Quadratico Medio (RMSE): 2124.69
+Erro Absoluto Medio (MAE): 2079.33
+R² Score: -22.58
+Cross Validation Score: -22.60
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 186635.22
+Raiz do Erro Quadratico Medio (RMSE): 432.01
+Erro Absoluto Medio (MAE): 363.00
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 255065.52
+Raiz do Erro Quadratico Medio (RMSE): 505.04
+Erro Absoluto Medio (MAE): 395.24
+R² Score: -0.33
+Cross Validation Score: -0.23
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 255065.52
+Raiz do Erro Quadratico Medio (RMSE): 505.04
+Erro Absoluto Medio (MAE): 395.24
+R² Score: -0.33
+Cross Validation Score: -0.23
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 66673.50
+Raiz do Erro Quadratico Medio (RMSE): 258.21
+Erro Absoluto Medio (MAE): 84.75
+R² Score: 0.65
+Cross Validation Score: 0.74
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 186635.22
+Raiz do Erro Quadratico Medio (RMSE): 432.01
+Erro Absoluto Medio (MAE): 363.00
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 4595681.94
+Raiz do Erro Quadratico Medio (RMSE): 2143.75
+Erro Absoluto Medio (MAE): 2098.81
+R² Score: -23.01
+Cross Validation Score: -23.04
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 187382.08
+Raiz do Erro Quadratico Medio (RMSE): 432.88
+Erro Absoluto Medio (MAE): 363.73
+R² Score: 0.02
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 322067.62
+Raiz do Erro Quadratico Medio (RMSE): 567.51
+Erro Absoluto Medio (MAE): 445.95
+R² Score: -0.68
+Cross Validation Score: -0.54
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 322067.62
+Raiz do Erro Quadratico Medio (RMSE): 567.51
+Erro Absoluto Medio (MAE): 445.95
+R² Score: -0.68
+Cross Validation Score: -0.54
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 75111.00
+Raiz do Erro Quadratico Medio (RMSE): 274.06
+Erro Absoluto Medio (MAE): 118.50
+R² Score: 0.61
+Cross Validation Score: 0.50
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 187382.08
+Raiz do Erro Quadratico Medio (RMSE): 432.88
+Erro Absoluto Medio (MAE): 363.73
+R² Score: 0.02
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 4514301.40
+Raiz do Erro Quadratico Medio (RMSE): 2124.69
+Erro Absoluto Medio (MAE): 2079.33
+R² Score: -22.58
+Cross Validation Score: -22.60
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 186635.22
+Raiz do Erro Quadratico Medio (RMSE): 432.01
+Erro Absoluto Medio (MAE): 363.00
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 255065.52
+Raiz do Erro Quadratico Medio (RMSE): 505.04
+Erro Absoluto Medio (MAE): 395.24
+R² Score: -0.33
+Cross Validation Score: -0.23
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 255065.52
+Raiz do Erro Quadratico Medio (RMSE): 505.04
+Erro Absoluto Medio (MAE): 395.24
+R² Score: -0.33
+Cross Validation Score: -0.23
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 66673.50
+Raiz do Erro Quadratico Medio (RMSE): 258.21
+Erro Absoluto Medio (MAE): 84.75
+R² Score: 0.65
+Cross Validation Score: 0.74
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 186635.22
+Raiz do Erro Quadratico Medio (RMSE): 432.01
+Erro Absoluto Medio (MAE): 363.00
+R² Score: 0.03
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 4596030.71
+Raiz do Erro Quadratico Medio (RMSE): 2143.84
+Erro Absoluto Medio (MAE): 2098.89
+R² Score: -23.01
+Cross Validation Score: -23.02
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 187030.15
+Raiz do Erro Quadratico Medio (RMSE): 432.47
+Erro Absoluto Medio (MAE): 363.45
+R² Score: 0.02
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 304866.16
+Raiz do Erro Quadratico Medio (RMSE): 552.15
+Erro Absoluto Medio (MAE): 432.85
+R² Score: -0.59
+Cross Validation Score: -0.45
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 304866.16
+Raiz do Erro Quadratico Medio (RMSE): 552.15
+Erro Absoluto Medio (MAE): 432.85
+R² Score: -0.59
+Cross Validation Score: -0.45
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 109630.50
+Raiz do Erro Quadratico Medio (RMSE): 331.10
+Erro Absoluto Medio (MAE): 144.25
+R² Score: 0.43
+Cross Validation Score: 0.48
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 187030.15
+Raiz do Erro Quadratico Medio (RMSE): 432.47
+Erro Absoluto Medio (MAE): 363.45
+R² Score: 0.02
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 4596030.71
+Raiz do Erro Quadratico Medio (RMSE): 2143.84
+Erro Absoluto Medio (MAE): 2098.89
+R² Score: -23.01
+Cross Validation Score: -23.02
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 187030.15
+Raiz do Erro Quadratico Medio (RMSE): 432.47
+Erro Absoluto Medio (MAE): 363.45
+R² Score: 0.02
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 304866.16
+Raiz do Erro Quadratico Medio (RMSE): 552.15
+Erro Absoluto Medio (MAE): 432.85
+R² Score: -0.59
+Cross Validation Score: -0.45
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 304866.16
+Raiz do Erro Quadratico Medio (RMSE): 552.15
+Erro Absoluto Medio (MAE): 432.85
+R² Score: -0.59
+Cross Validation Score: -0.45
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 109630.50
+Raiz do Erro Quadratico Medio (RMSE): 331.10
+Erro Absoluto Medio (MAE): 144.25
+R² Score: 0.43
+Cross Validation Score: 0.48
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 187030.15
+Raiz do Erro Quadratico Medio (RMSE): 432.47
+Erro Absoluto Medio (MAE): 363.45
+R² Score: 0.02
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 4595681.94
+Raiz do Erro Quadratico Medio (RMSE): 2143.75
+Erro Absoluto Medio (MAE): 2098.81
+R² Score: -23.01
+Cross Validation Score: -23.04
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 187382.08
+Raiz do Erro Quadratico Medio (RMSE): 432.88
+Erro Absoluto Medio (MAE): 363.73
+R² Score: 0.02
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 76686.17
+Raiz do Erro Quadratico Medio (RMSE): 276.92
+Erro Absoluto Medio (MAE): 188.68
+R² Score: 0.60
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 322067.62
+Raiz do Erro Quadratico Medio (RMSE): 567.51
+Erro Absoluto Medio (MAE): 445.95
+R² Score: -0.68
+Cross Validation Score: -0.54
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 82004.06
+Raiz do Erro Quadratico Medio (RMSE): 286.36
+Erro Absoluto Medio (MAE): 212.20
+R² Score: 0.57
+Cross Validation Score: 0.47
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 34877.54
+Raiz do Erro Quadratico Medio (RMSE): 186.76
+Erro Absoluto Medio (MAE): 128.03
+R² Score: 0.82
+Cross Validation Score: 0.80
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 322067.62
+Raiz do Erro Quadratico Medio (RMSE): 567.51
+Erro Absoluto Medio (MAE): 445.95
+R² Score: -0.68
+Cross Validation Score: -0.54
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 106968.08
+Raiz do Erro Quadratico Medio (RMSE): 327.06
+Erro Absoluto Medio (MAE): 262.37
+R² Score: 0.44
+Cross Validation Score: 0.37
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 75111.00
+Raiz do Erro Quadratico Medio (RMSE): 274.06
+Erro Absoluto Medio (MAE): 118.50
+R² Score: 0.61
+Cross Validation Score: 0.50
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 187382.08
+Raiz do Erro Quadratico Medio (RMSE): 432.88
+Erro Absoluto Medio (MAE): 363.73
+R² Score: 0.02
+Cross Validation Score: 0.08
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 104162.96
+Raiz do Erro Quadratico Medio (RMSE): 322.74
+Erro Absoluto Medio (MAE): 247.96
+R² Score: 0.46
+Cross Validation Score: 0.36
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 0.00
+Raiz do Erro Quadratico Medio (RMSE): 0.00
+Erro Absoluto Medio (MAE): 0.00
+R² Score: 1.00
+Cross Validation Score: 1.00
+
+MLP Regressor: 
+Erro Quadratico Medio (MSE): 4541933.74
+Raiz do Erro Quadratico Medio (RMSE): 2131.18
+Erro Absoluto Medio (MAE): 2085.96
+R² Score: -22.73
+Cross Validation Score: -22.76
+
+Regressao Linear: 
+Erro Quadratico Medio (MSE): 184583.78
+Raiz do Erro Quadratico Medio (RMSE): 429.63
+Erro Absoluto Medio (MAE): 360.73
+R² Score: 0.04
+Cross Validation Score: 0.08
+
+KNN Regressor: 
+Erro Quadratico Medio (MSE): 135389.79
+Raiz do Erro Quadratico Medio (RMSE): 367.95
+Erro Absoluto Medio (MAE): 301.57
+R² Score: 0.29
+Cross Validation Score: 0.23
+
+Arvore de Decisao Regressora: 
+Erro Quadratico Medio (MSE): 163262.11
+Raiz do Erro Quadratico Medio (RMSE): 404.06
+Erro Absoluto Medio (MAE): 332.14
+R² Score: 0.15
+Cross Validation Score: 0.07
 

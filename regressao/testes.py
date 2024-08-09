@@ -69,22 +69,24 @@ def plot_results(y_test, y_pred, name, config):
         plt.savefig(f'./regressao/saidas/mlp/{name}_config_{config}.png')
     plt.show()
     
-def print_results(name, mse, rmse, mae, r2):
+def print_results(name, mse, rmse, mae, r2, score):
     print(f"{name}:")
     print(f"Erro Quadrático Médio (MSE): {mse:.2f}")
     print(f"Raiz do Erro Quadrático Médio (RMSE): {rmse:.2f}")
     print(f"Erro Absoluto Médio (MAE): {mae:.2f}")
     print(f"R² Score: {r2:.2f}")
+    print(f"Cross Validation Score: {score.mean():.2f}")
     print()
     save_results(name, mse, rmse, mae, r2)
 
-def save_results(name, mse, rmse, mae, r2):
+def save_results(name, mse, rmse, mae, r2, score):
     results_str = (
         f"{name}: \n"
         f"Erro Quadratico Medio (MSE): {mse:.2f}\n"
         f"Raiz do Erro Quadratico Medio (RMSE): {rmse:.2f}\n"
         f"Erro Absoluto Medio (MAE): {mae:.2f}\n"
         f"R² Score: {r2:.2f}\n"
+        f"Cross Validation Score: {score.mean():.2f}\n"
     )
     
     file_path = "./regressao/results.txt"
@@ -156,6 +158,7 @@ def mlp_pipeline(preprocessor, config):
     return Pipeline(steps=[
         ('preprocessor', preprocessor),
         ('regressor', model)
+        
     ])
 
 def main(): 
@@ -167,7 +170,7 @@ def main():
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=1)
 
     # Treinar e avaliar os modelos
-    for config in range(1, 2): 
+    for config in range(1, 6): 
         models = {
             'Regressao Linear': linear_pipeline(preprocessor,config),
             'KNN Regressor': knn_pipeline(preprocessor, config),
@@ -177,9 +180,8 @@ def main():
         
         for name, model in models.items():
             mse, rmse, mae, r2, y_pred = model_evaluation(model, X_train, y_train, X_test, y_test)
-            #score = cross_val_score(model, X_train, y_train, cv=10)
-            print_results(name, mse, rmse, mae, r2)
-            #print(scores)
+            score = cross_val_score(model, X_train, y_train, cv=10)
+            print_results(name, mse, rmse, mae, r2, score)
             plot_results(y_test, y_pred, name, config)
 
 main()
